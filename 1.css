@@ -1,0 +1,28 @@
+body{
+    cursor: url(https://cur.cursors-4u.net/nature/nat-3/nat260.cur), auto !important;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font: italic 1.2rem "Fira Sans", serif;
+    background:url(https://i.pinimg.com/564x/52/f3/83/52f383d595a5bc26a5108efa3e1f61a2.jpg);
+}
+.cvet{
+    background-color: lightpink;   
+}
+.edatext{
+    font-size: 15px;
+}
+.menuuu{
+    padding: 10px 10px;
+    margin: 20px 20px;
+    color: palevioletred;
+    background-color: white;
+}
+img{
+    width: 200px;
+    height: 200px;
+    padding: 20px 20px;
+}
+.cvet2{
+    background-color: #ffdee9; 
+}
